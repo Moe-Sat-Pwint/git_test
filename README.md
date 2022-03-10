@@ -1,25 +1,20 @@
 # README Updated
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>This is a RUby on Rails applications 
+### Features
 
-Things you may want to cover:
+-Real time time chat engin for comments
+-Blog
+-Portfolio
+-Drag and drop interface
 
-* Ruby version
+##Code example
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# git_test
+'''ruby
+def my_method
+put 'This is my method'
+end
+'''
+'''javascript 
+alert('Hi Ruby')
+''
